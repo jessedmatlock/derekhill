@@ -1,0 +1,39 @@
+SITE DOC
+==========
+==========
+
+Repo Name:
+
+WEBSITE NAME
+http://
+
+DB INFO:
+========
+company_site
+root
+root
+
+FTP:
+=====
+server:
+user:
+pass:
+
+Host Login:
+===========
+user:
+pass:
+
+cPanel Access:
+==============
+user:
+pass:
+
+
+Customer Contact Info:
+=======================
+name:
+email:
+phone:
+
+
